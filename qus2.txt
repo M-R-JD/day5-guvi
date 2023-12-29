@@ -1,0 +1,52 @@
+let myResume={
+    "basics": {
+      "name": "RATHINA JAYA DEEPA M",
+      "email": "rathinadeepad3011@gmail.com",
+      "phone": +91 6369677845,
+      "degree": "B.E",
+      "location": {
+        "address": "3/72 East street Melkaraipatti Palani",
+        "postalCode": 624 617,
+        "city": "Palani",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      "profiles": [
+        {
+          "website": "https://www.linkedin.com/in/rathinadeepa/",
+          "github":"https://github.com/M-R-JD"
+        }
+      ]
+    },
+    "education": [
+      {
+        "institution": "Velalar College Of Engineering and Technology",
+        "department": "Electrical and Electronics Engineering",
+        "studyType": "fulltime",
+        "batch start year": 2020,
+        "batch end year": 2023,
+        "gpa": 9.5,
+      }
+    ],
+    "skills": [
+      {
+        "name": "python,C,javascript",
+        "level": "beginer",
+        "project": [
+          "Automation System using PLC"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,English",
+      }
+    ],
+    "interests": [
+      {
+        "name": "Programming",
+      }
+    ]
+  }
+  console.log(myResume);
+  
